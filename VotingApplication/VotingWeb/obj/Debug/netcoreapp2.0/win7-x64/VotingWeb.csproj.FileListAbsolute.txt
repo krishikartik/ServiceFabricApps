@@ -1,0 +1,13 @@
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.exe
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.deps.json
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.json
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.dev.json
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.csproj.CoreCompileInputs.cache
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfoInputs.cache
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfo.cs
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+E:\Krishna Kartik\Practice\VotingApplication\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
