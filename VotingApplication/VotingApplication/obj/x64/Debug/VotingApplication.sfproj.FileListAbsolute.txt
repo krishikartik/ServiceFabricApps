@@ -1,1 +1,2 @@
 E:\Krishna Kartik\Practice\VotingApplication\VotingApplication\obj\x64\Debug\VotingApplication.sfproj.CoreCompileInputs.cache
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingApplication\obj\x64\Debug\VotingApplication.sfproj.CoreCompileInputs.cache

@@ -19332,11 +19332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Krishna Kartik\\Practice\\VotingApplication\\VotingData\\VotingData.csproj",
+      "projectUniqueName": "E:\\Krishna Kartik\\Projects\\ServiceFabricApps\\VotingApplication\\VotingData\\VotingData.csproj",
       "projectName": "VotingData",
-      "projectPath": "E:\\Krishna Kartik\\Practice\\VotingApplication\\VotingData\\VotingData.csproj",
+      "projectPath": "E:\\Krishna Kartik\\Projects\\ServiceFabricApps\\VotingApplication\\VotingData\\VotingData.csproj",
       "packagesPath": "C:\\Users\\krishnak\\.nuget\\packages\\",
-      "outputPath": "E:\\Krishna Kartik\\Practice\\VotingApplication\\VotingData\\obj\\",
+      "outputPath": "E:\\Krishna Kartik\\Projects\\ServiceFabricApps\\VotingApplication\\VotingData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

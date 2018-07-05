@@ -11,3 +11,17 @@ E:\Krishna Kartik\Practice\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\
 E:\Krishna Kartik\Practice\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.AssemblyInfo.cs
 E:\Krishna Kartik\Practice\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.dll
 E:\Krishna Kartik\Practice\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.pdb
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\VotingData.exe
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\VotingData.deps.json
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\VotingData.runtimeconfig.json
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\VotingData.runtimeconfig.dev.json
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\VotingData.dll
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\bin\Debug\netcoreapp2.0\win7-x64\VotingData.pdb
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.csprojAssemblyReference.cache
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.csproj.CoreCompileInputs.cache
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.AssemblyInfoInputs.cache
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.AssemblyInfo.cs
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.dll
+E:\Krishna Kartik\Projects\ServiceFabricApps\VotingApplication\VotingData\obj\Debug\netcoreapp2.0\win7-x64\VotingData.pdb
